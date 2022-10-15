@@ -28,7 +28,7 @@ android {
     sourceSets {
         main {
             java {
-                srcDirs 'src\\main\\java', 'src\\main\\java\\com\\example\\appclub\\login', 'src\\main\\java\\com\\example\\appclub\\signup', 'src\\main\\java\\com\\example\\appclub\\splashscreen', 'src\\main\\java\\com.example.appclub'
+                srcDirs 'src\\main\\java', 'src\\main\\java\\com\\example\\appclub\\login', 'src\\main\\java\\com\\example\\appclub\\signup', 'src\\main\\java\\com\\example\\appclub\\splashscreen', 'src\\main\\java\\com.example.appclub', 'src\\main\\java\\com\\example\\appclub\\onboarding'
             }
         }
     }
